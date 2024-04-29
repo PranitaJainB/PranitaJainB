@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pranita and I'm a Computer Science Enginner from India</p>
+<p align="left">My name is Pranita and I'm a Full Stack Web Developer </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Doing programming since 2007<br>📚 I'm currently learning DevOps<br>🎯 Goals: Want to become a DevOps Enginner<br>🎲 Fun fact: I want to learn almost everything I come across </p>
+<p align="left">✨ Doing programming since 2007<br>📚 I'm currently learning DevOps<br>🎯 Goals: Become an expert in a domain<br>🎲 Fun fact: I want to learn almost everything I come across </p>
 
 ###
 
@@ -18,23 +18,12 @@
 
 ###
 
-<div align="left">
 
-  <img width="12" />![jsGif](https://github.com/PranitaJainB/PranitaJainB/assets/162868143/4d672f7e-c27b-4210-842c-df0965e096c8)
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,js,jquery,html,css,npm,postman,vscode,ts,mongodb,mysql,graphql,django,dotnet,cs,c,cpp&perline=5" />
+  </a>
+</p>
 </div>
 
 ###
