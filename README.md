@@ -19,8 +19,9 @@
 ###
 
 <div align="left">
-  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://miro.medium.com/v2/resize:fit:640/format:webp/1*-tOldEbfjijxn9VqZeULqg.gif)](https://miro.medium.com/v2/resize:fit:640/format:webp/1*-tOldEbfjijxn9VqZeULqg.gif)" height="40" alt="javascript logo"  />
-  <img width="12" />
+
+  <img width="12" />![jsGif](https://github.com/PranitaJainB/PranitaJainB/assets/162868143/4d672f7e-c27b-4210-842c-df0965e096c8)
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
