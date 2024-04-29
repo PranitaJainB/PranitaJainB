@@ -27,3 +27,9 @@
 </div>
 
 ###
+
+<h2 align="left">Contact me</h2>
+
+###
+
+<p align="left">Email : LetsKod@gmail.com </p>
