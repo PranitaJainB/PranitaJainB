@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Doing programming since 2007<br>📚 I'm currently learning DevOps<br>🎯 Goals: Become an expert in a domain<br>🎲 Fun fact: I want to learn almost everything I come across </p>
+<p align="left">✨ Doing programming since 2007<br>📚 I'm currently learning MERN Fullstack<br>🎯 Goals: Become an expert in a domain<br>🎲 Fun fact: I want to learn almost everything I come across </p>
 
 ###
 
