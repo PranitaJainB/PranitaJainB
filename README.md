@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Learning new things everyday.<br>📚 I'm currently learning MERN Fullstack<br>🎯 Goals: Become an expert in a domain<br>🎲 Following Life fact: Do your best today, and don't worry too much about what might happen tomorrow. -Shri Krishna </p>
+<p align="left">✨ Passionate about coding,learning to write quality code everyday<br>📚 I'm currently learning MERN Fullstack<br>🎯 Goals: Become an expert in a domain<br>🎲 Following Life fact: Do your best today, and don't worry too much about what might happen tomorrow. -Shri Krishna </p>
 
 ###
 
