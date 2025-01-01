@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about coding,learning to write quality code everyday<br>📚 I'm currently learning MERN Fullstack<br>🎯 Goals: Become an expert in a domain<br>🎲 Following other passions: Play Chess,Running 5km Runs , Painting , Clay Art </p>
+<p align="left">✨ Passionate about coding,learning to write quality code everyday<br>📚 I'm currently learning MERN Fullstack<br>🎯 Goals: Become an expert in a domain<br>🎲 Following other passions: Play Chess,Running 5km Runs , Painting , Clay Art ,Singing</p>
 
 ###
 
