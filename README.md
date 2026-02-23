@@ -4,18 +4,7 @@ I’m a passionate **JavaScript Developer** who enjoys building clean, user-frie
 
 I like working close to the browser, understanding *why* things behave the way they do, and refining small details that make a big difference.
 
----
 
-## 🛠️ Tech Stack
-
-**Frontend**
-- JavaScript , HTML5, CSS3, React, Next.js
-
-**Backend**
-- Node.js, MongoDB ,SQL
-
-**Testing & Tools**
-- Playwright, ElasticSearch , Postman , Github 
 
 ---
 
@@ -37,5 +26,18 @@ https://pranitajainb.github.io/Weather-App/
 - Open to collaboration, feedback, and learning opportunities
 
 ---
+
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- JavaScript , HTML5, CSS3, React, Next.js
+
+**Backend**
+- Node.js, MongoDB ,SQL
+
+**Testing & Tools**
+- Playwright, ElasticSearch , Postman , Github 
+
 
 ⭐ If you find my work useful, feel free to star a repo!
