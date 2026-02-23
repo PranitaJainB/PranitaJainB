@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Pranita Jain
 
-<!--
-**PranitaJainB/PranitaJainB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **JavaScript Developer** who enjoys building clean, user-friendly web applications and improving them with solid UX and performance-focused thinking.
 
-Here are some ideas to get you started:
+I like working close to the browser, understanding *why* things behave the way they do, and refining small details that make a big difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- JavaScript , HTML5, CSS3, React, Next.js
+
+**Backend**
+- Node.js, MongoDB ,SQL
+
+**Testing & Tools**
+- Playwright, ElasticSearch , Postman , Github 
+
+---
+
+## 🚀 Projects
+
+### 🌦️ Weather App
+A simple and responsive weather application that fetches real-time data and focuses on clean UI, error handling, and smooth user interactions.
+
+🔗 **Live Demo:**  
+https://pranitajainb.github.io/Weather-App/
+
+---
+
+
+
+## 📫 Let’s Connect
+- email:	letskod@gmail.com🙂
+- linkedin : https://www.linkedin.com/in/pranitajain20/
+- Open to collaboration, feedback, and learning opportunities
+
+---
+
+⭐ If you find my work useful, feel free to star a repo!
